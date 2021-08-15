@@ -25,4 +25,4 @@
   [Arthur Bates](https://github.com/artbat6), [Courtney Brown](https://github.com/courtlb), [Brian Casto](https://github.com/funkcake), [Blake Johnson](https://github.com/funkcake), [Chris Ruiz](https://github.com/Chrispruiz)
   
   ## Questions:
-  If you have any questions, please feel free to contact me at Chrispruiz@att.net. For more of my work, visit [Chrispruiz](https://github.com/Chrispruiz).
+  If you have any questions, please feel free to contact me at clbrown0607@gmail.com. For more of my work, visit [courtlb](https://github.com/courtlb).
